@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sethstephens/Projects/WebAppTest/WebAppTest/WebAppTest.csproj",
+      "projectUniqueName": "/Users/sethstephens/Desktop/WebAppTest/WebAppTest/WebAppTest.csproj",
       "projectName": "WebAppTest",
-      "projectPath": "/Users/sethstephens/Projects/WebAppTest/WebAppTest/WebAppTest.csproj",
+      "projectPath": "/Users/sethstephens/Desktop/WebAppTest/WebAppTest/WebAppTest.csproj",
       "packagesPath": "/Users/sethstephens/.nuget/packages/",
-      "outputPath": "/Users/sethstephens/Projects/WebAppTest/WebAppTest/obj/",
+      "outputPath": "/Users/sethstephens/Desktop/WebAppTest/WebAppTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sethstephens/.config/NuGet/NuGet.Config"
